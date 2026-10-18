@@ -4,7 +4,19 @@ All notable releases published in this repository.
 
 ## v1.0.13 — 2026-10-18
 
-Release v1.0.13 — descargas y auto-actualizaciones.
+## Release v1.0.13
+
+Official signed binaries. Docs: https://mavksoft.github.io/juntas-it-community-releases/
+
+### Assets
+- `appcast.xml`
+- `Juntas-1.0.13-Windows-Portable.zip`
+- `Juntas-1.0.13.dmg`
+- `Juntas-1.0.13.zip`
+- `Juntas-Setup-1.0.13.exe`
+- `Juntas-Setup.exe`
+- `portals.json`
+- `version.json`
 
 **Assets:** `appcast.xml` · `Juntas-1.0.13-Windows-Portable.zip` · `Juntas-1.0.13.dmg` · `Juntas-1.0.13.zip` · `Juntas-Setup-1.0.13.exe` · `Juntas-Setup.exe` · `portals.json` · `version.json`
 

@@ -23,10 +23,10 @@
 
 | | |
 |---|---|
-| 📥 **macOS** | [Juntas-<Version>.dmg](https://github.com/mavksoft/juntas-it-community-releases/releases/latest) in jedem Release |
-| 📱 **Mobil** | Android & iOS — aus den Stores oder über [it-community.online](https://it-community.online) |
-| 🪟 **Windows** | Installer in jedem Release verfügbar |
-| 🌍 **Website** | [it-community.online](https://it-community.online) |
+| <img src='https://raw.githubusercontent.com/mavksoft/juntas-it-community-releases/main/icons/apple.svg' width='15' style='vertical-align:-2px' alt='apple'> **macOS** | [Juntas-<Version>.dmg](https://github.com/mavksoft/juntas-it-community-releases/releases/latest) in jedem Release |
+| <img src='https://raw.githubusercontent.com/mavksoft/juntas-it-community-releases/main/icons/android.svg' width='15' style='vertical-align:-2px' alt='android'><img src='https://raw.githubusercontent.com/mavksoft/juntas-it-community-releases/main/icons/apple.svg' width='15' style='vertical-align:-2px' alt='apple'> **Mobil** | Android & iOS — aus den Stores oder über [it-community.online](https://it-community.online) |
+| <img src='https://raw.githubusercontent.com/mavksoft/juntas-it-community-releases/main/icons/windows.svg' width='15' style='vertical-align:-2px' alt='windows'> **Windows** | Installer in jedem Release verfügbar |
+| <img src='https://it-community.online/assets/logo.png' width='15' style='vertical-align:-2px'> **Website** | [it-community.online](https://it-community.online) |
 
 ## Was ist das
 
