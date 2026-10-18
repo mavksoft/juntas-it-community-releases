@@ -30,6 +30,8 @@
 
 O Juntas é a app de assembleias do ecossistema IT-Community: liga-se ao portal da sua comunidade de proprietários para receber convocatórias, consultar a documentação de cada reunião e acompanhar a vida da comunidade em qualquer dispositivo. Este repositório distribui os binários públicos e os feeds de auto-atualização.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funcionalidades
 
 - **Ligação ao portal** — a app liga-se ao portal IT-Community da sua comunidade através do diretório `portals.json`.

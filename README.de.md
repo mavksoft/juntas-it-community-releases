@@ -30,6 +30,8 @@
 
 Juntas ist die Versammlungs-App des IT-Community-Ökosystems: Sie verbindet sich mit dem Portal deiner Eigentümergemeinschaft, um Einladungen zu erhalten, die Unterlagen jeder Versammlung einzusehen und das Leben deiner Gemeinschaft auf jedem Gerät zu verfolgen. Dieses Repository stellt die öffentlichen Binaries und Auto-Update-Feeds bereit.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funktionen
 
 - **Portal-Anbindung** — die App verknüpft sich über das `portals.json`-Verzeichnis mit dem IT-Community-Portal deiner Gemeinschaft.

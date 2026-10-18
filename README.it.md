@@ -30,6 +30,8 @@
 
 Juntas è l'app delle assemblee dell'ecosistema IT-Community: si collega al portale della tua comunità di proprietari per ricevere convocazioni, consultare i documenti di ogni riunione e seguire la vita della comunità da qualsiasi dispositivo. Questo repository distribuisce i binari pubblici e i feed di auto-aggiornamento.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funzionalità
 
 - **Connessione al portale** — l'app si collega al portale IT-Community della tua comunità tramite la directory `portals.json`.

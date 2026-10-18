@@ -30,6 +30,8 @@
 
 Juntas es la aplicación de asambleas del ecosistema IT-Community: conecta con el portal de tu comunidad de propietarios para recibir convocatorias, consultar la documentación de cada junta y seguir la vida de tu comunidad desde cualquier dispositivo. Este repositorio distribuye los binarios públicos y los feeds de auto-actualización.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Funciones
 
 - **Conexión con tu portal** — la app se enlaza al portal IT-Community de tu comunidad vía el directorio `portals.json`.

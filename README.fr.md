@@ -30,6 +30,8 @@
 
 Juntas est l'application d'assemblées de l'écosystème IT-Community : elle se connecte au portail de votre copropriété pour recevoir les convocations, consulter les documents de chaque assemblée et suivre la vie de votre communauté depuis n'importe quel appareil. Ce dépôt distribue les binaires publics et les flux d'auto-mise à jour.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Fonctionnalités
 
 - **Connexion au portail** — l'app se lie au portail IT-Community de votre copropriété via le répertoire `portals.json`.

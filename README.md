@@ -30,6 +30,8 @@
 
 Juntas is the assembly app of the IT-Community ecosystem: it connects to your homeowners' community portal to receive meeting calls, browse each assembly's documentation and follow your community's life from any device. This repository distributes the public binaries and auto-update feeds.
 
+<p align="center"><img src="./screenshots/website.png" width="640" alt="screenshot"></p>
+
 ## Features
 
 - **Portal connection** — the app links to your community's IT-Community portal via the `portals.json` directory.
